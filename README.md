@@ -7,3 +7,9 @@ I propose to create a video game themed reseller marketplace where people can go
 Current non-working things:
 - CRUD features
 - About Page
+
+To be added next:
+- CRUD features
+- About Page
+- Pagination
+- Shopping Cart Capabilities
