@@ -13,7 +13,7 @@ However for the WebApp3 submission I solely used the code from Adam Freeman's Sp
 Newly Added in WebApp3 submission:
 - Full seeded database with Video Games, Computer Components, and Consoles
 - Pagination
-- Stylization using bootstrap
+- Stylization using bootstrap (which make the file size quite large, I apologize)
 
 Current non-working things:
 - CRUD features
