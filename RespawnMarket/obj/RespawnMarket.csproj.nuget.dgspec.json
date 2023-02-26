@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksrin\\Documents\\RespawnMarket\\RespawnMarket\\RespawnMarket.csproj": {}
+    "C:\\Users\\ksrin\\Documents\\test1\\RespawnMarket-main\\RespawnMarket\\RespawnMarket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksrin\\Documents\\RespawnMarket\\RespawnMarket\\RespawnMarket.csproj": {
+    "C:\\Users\\ksrin\\Documents\\test1\\RespawnMarket-main\\RespawnMarket\\RespawnMarket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksrin\\Documents\\RespawnMarket\\RespawnMarket\\RespawnMarket.csproj",
+        "projectUniqueName": "C:\\Users\\ksrin\\Documents\\test1\\RespawnMarket-main\\RespawnMarket\\RespawnMarket.csproj",
         "projectName": "RespawnMarket",
-        "projectPath": "C:\\Users\\ksrin\\Documents\\RespawnMarket\\RespawnMarket\\RespawnMarket.csproj",
+        "projectPath": "C:\\Users\\ksrin\\Documents\\test1\\RespawnMarket-main\\RespawnMarket\\RespawnMarket.csproj",
         "packagesPath": "C:\\Users\\ksrin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksrin\\Documents\\RespawnMarket\\RespawnMarket\\obj\\",
+        "outputPath": "C:\\Users\\ksrin\\Documents\\test1\\RespawnMarket-main\\RespawnMarket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -63,7 +67,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.12, )"
             }
           },
           "imports": [
