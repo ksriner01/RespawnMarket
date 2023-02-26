@@ -10,6 +10,10 @@ Code used was referenced from:
 
 However for the WebApp3 and WebApp4 submissions I solely used the code from Adam Freeman's SportsStore example in the book and altered it to fit my storepage, RespawnMarket.
 
+The Administrator account can be accessed by adding "/account/admin" to the end of the URL to which you will be prompted for a username and password which are:
+User: Admin
+Password: Secret123$
+
 Newly Added in WebApp4 submission:
 - CRUD features for products database as an administrator.
 - Second and third DbSet<> entities for orders and accounts.
