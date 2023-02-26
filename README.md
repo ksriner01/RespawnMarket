@@ -20,11 +20,13 @@ Newly Added in WebApp4 submission:
 - Fully operational shopping cart and checkout systems.
 - Side bar for navigating (filtering) between the categories of items.
 - Administration functionality that is accessed by logging into the admin account.
+- Order management system for admin accounts.
 - Security authorization so that only admins may access the admin page.
 - Some aethestic updates to the html code.
 
 Current warnings in the program:
 - Warnings will appear when building for nullable types.
+- Some inconsistent line ending errors may appear when running the program.
 
 To be added:
 - Comments for all pages in the program.
