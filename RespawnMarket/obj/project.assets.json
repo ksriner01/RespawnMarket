@@ -10193,11 +10193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksrin\\Documents\\test1\\RespawnMarket-main\\RespawnMarket\\RespawnMarket.csproj",
+      "projectUniqueName": "C:\\Users\\ksrin\\Documents\\test2\\RespawnMarket\\RespawnMarket\\RespawnMarket.csproj",
       "projectName": "RespawnMarket",
-      "projectPath": "C:\\Users\\ksrin\\Documents\\test1\\RespawnMarket-main\\RespawnMarket\\RespawnMarket.csproj",
+      "projectPath": "C:\\Users\\ksrin\\Documents\\test2\\RespawnMarket\\RespawnMarket\\RespawnMarket.csproj",
       "packagesPath": "C:\\Users\\ksrin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksrin\\Documents\\test1\\RespawnMarket-main\\RespawnMarket\\obj\\",
+      "outputPath": "C:\\Users\\ksrin\\Documents\\test2\\RespawnMarket\\RespawnMarket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

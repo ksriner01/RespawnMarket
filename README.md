@@ -14,6 +14,9 @@ The Administrator accounts can be viewed using an admin account by adding "/admi
 - User: Admin
 - Password: Secret123$
 
+!!! IMPORTANT !!!
+For the WebApp5 Submission procedure for downloading, preparing, and running the web application because I have two DbContexts they must both be updated individually by typing "Update-Database -Context StoreDbContext" and "Update-Database -Context AppIdentityDbContext" respectively. 
+
 Newly Added in WebApp5 submission:
 - Comments for all class, Razor Views, and Razor components in the RespawnMarket solution.
 - Data annotations for the Order and Product Models.

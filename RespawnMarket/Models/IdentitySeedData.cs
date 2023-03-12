@@ -36,7 +36,7 @@ namespace RespawnMarket.Models
             {
                 user = new IdentityUser("Admin");
                 user.Email = "admin@example.com";
-                user.PhoneNumber = "555-1234";
+                user.PhoneNumber = "555-555-1234";
                 await userManager.CreateAsync(user, adminPassword);
             }
         }
