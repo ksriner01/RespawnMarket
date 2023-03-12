@@ -1,4 +1,9 @@
 ﻿@page
+<!--The Cart Razor View page goes through all the products in the cart and requests the Product objects from the database
+    to update the user's cart and then store it in the individual user's session data. This also includes the removal the 
+    remove functionality by way of the remove button added to the cart. Finally, the checkout button is added to allow the
+    user to move to the shipping page.
+-->
 @using RespawnMarket.Pages
 @model CartModel
 <h2>Your cart</h2>

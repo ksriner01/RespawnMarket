@@ -1,4 +1,8 @@
-﻿@model Order
+﻿<!--The Checkout Razor View uses the Order model in order to create the HTML form for the checkout page.
+    If any of the fields are not entered, danger text is displayed to the user informing them of what they
+    need to fill in.
+-->
+@model Order
 <h2>Check out now</h2>
 <p>Please enter your details for checkout.</p>
 <div asp-validation-summary="All" class="text-danger"></div>

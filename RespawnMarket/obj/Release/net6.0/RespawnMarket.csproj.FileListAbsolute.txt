@@ -286,8 +286,6 @@ C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\Microsoft.Build.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\Microsoft.Build.Framework.dll
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\Microsoft.Build.Tasks.Core.dll
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\Microsoft.Build.Utilities.Core.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -335,7 +333,6 @@ C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\NuGet.ProjectModel.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\NuGet.Protocol.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\NuGet.Versioning.dll
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.CodeDom.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.Composition.AttributedModel.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.Composition.Convention.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.Composition.Hosting.dll
@@ -344,7 +341,6 @@ C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.Drawing.Common.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.Resources.Extensions.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.Runtime.Caching.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.Security.Permissions.dll
@@ -511,14 +507,7 @@ C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\obj\Release\net6.0\RespawnMarket.csproj.AssemblyReference.cache
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\obj\Release\net6.0\RespawnMarket.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\obj\Release\net6.0\RespawnMarket.AssemblyInfoInputs.cache
@@ -543,3 +532,12 @@ C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\obj\Release\net6
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\obj\Release\net6.0\RespawnMarket.pdb
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\obj\Release\net6.0\RespawnMarket.genruntimeconfig.cache
 C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\obj\Release\net6.0\ref\RespawnMarket.dll
+C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\appsettings.Production.json
+C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ksrin\Documents\test1\RespawnMarket-main\RespawnMarket\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

@@ -1,4 +1,16 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Change History
+// Date:        Developer:  Description: 
+// 2023-03-11   kriner      Commenting of the OrderController.cs file
+//
+// The OrderController class uses the IOrderRepository repoService and Cart cartService in order to save and submit orders.
+// The cart is then cleared and the user is given an OrderID and an affirmation that the order has been processed.
+//
+// The code used throughout the RespawnMarket program is generally referenced directly from Adam Freeman's
+// SportsStore example in the Pro ASP.NET Core 6: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages
+// book: https://learning.oreilly.com/library/view/pro-asp-net-core/9781484279571/
+
+using Microsoft.AspNetCore.Mvc;
 using RespawnMarket.Models;
 namespace RespawnMarket.Controllers
 {

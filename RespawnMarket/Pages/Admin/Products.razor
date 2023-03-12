@@ -1,5 +1,9 @@
 ﻿@page "/admin/products"
 @page "/admin"
+<!--The Products Razor Page inherits the IStoreRepository and creates a table of products. If the product count is larger
+    than 0, for each product a details, an edit, and a delete option are provided in the table. Otherwise, a create option is
+    presented at the bottom of the table where a new product can be entered into the database.
+-->
 @inherits OwningComponentBase<IStoreRepository>
 <table class="table table-sm table-striped table-bordered">
     <thead>

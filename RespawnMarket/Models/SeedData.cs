@@ -1,4 +1,16 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Change History
+// Date:        Developer:  Description: 
+// 2023-03-11   kriner      Commenting of the SeedData.cs file
+//
+// The SeedData class seeds the database context with varying products if the context does not have any products
+// within it and if it does it just returns the existing data.
+//
+// The code used throughout the RespawnMarket program is generally referenced directly from Adam Freeman's
+// SportsStore example in the Pro ASP.NET Core 6: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages
+// book: https://learning.oreilly.com/library/view/pro-asp-net-core/9781484279571/
+
+using Microsoft.EntityFrameworkCore;
 namespace RespawnMarket.Models
 {
     public static class SeedData

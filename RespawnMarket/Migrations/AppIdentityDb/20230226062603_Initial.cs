@@ -1,4 +1,16 @@
-﻿using System;
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Change History
+// Date:        Developer:  Description: 
+// 2023-03-11   kriner      Commenting of the 20230226062603_Initial.cs file in the AppIdentity.Db folder
+//
+// The 20230226062603_Initial class generates the schema for the identity database and has two methods: Up and Down.
+// The Up method produces the database and the down method drops it.
+//
+// The code used throughout the RespawnMarket program is generally referenced directly from Adam Freeman's
+// SportsStore example in the Pro ASP.NET Core 6: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages
+// book: https://learning.oreilly.com/library/view/pro-asp-net-core/9781484279571/
+
+using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable

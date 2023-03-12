@@ -1,4 +1,8 @@
-﻿@model ProductsListViewModel
+﻿<!--The Index.cshtml file provides the Razor View for the Index page of the RespawnMarket webapp.
+    The foreach expression works through all the products and creates HTML elements for all the products.
+    There are also pagination links added as well as links for different categories selected by the user.
+-->
+@model ProductsListViewModel
 @foreach (var p in Model?.Products ?? Enumerable.Empty<Product>())
 {
     <partial name="ProductSummary" model="p" />

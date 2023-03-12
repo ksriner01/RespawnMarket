@@ -1,4 +1,7 @@
-﻿<Router AppAssembly="typeof(Program).Assembly">
+﻿<!--The Routed Razor Page attempts to find the Razor Component that can be displayed to an admin user
+    by using the current browser URL.
+-->
+<Router AppAssembly="typeof(Program).Assembly">
     <Found>
         <RouteView RouteData="@context" DefaultLayout="typeof(AdminLayout)" />
     </Found>

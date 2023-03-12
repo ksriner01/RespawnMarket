@@ -1,5 +1,9 @@
 ﻿@page "/admin/products/edit/{id:long}"
 @page "/admin/products/create"
+<!--The Editor Razor component inherits the IStoreRepository and uses an EditForm in order to display the
+    editing UI for administrators. The product that is edited is either created if the ID is 0 and saved
+    if the ID exists.
+-->
 @inherits OwningComponentBase<IStoreRepository>
 <style>
     div.validation-message {

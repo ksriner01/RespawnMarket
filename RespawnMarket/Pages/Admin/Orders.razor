@@ -1,4 +1,7 @@
 ﻿@page "/admin/orders"
+<!--The Orders Razor component inherits the IOrderRepository and creates two OrderTables for shipped and unshipped orders.
+    All of the orders are then retrieved and in the UpdateData method the orders are filtered between shipped and unshipped orders.
+-->
 @inherits OwningComponentBase<IOrderRepository>
 <OrderTable TableTitle="Unshipped Orders"
             Orders="UnshippedOrders" ButtonLabel="Ship" OrderSelected="ShipOrder" />

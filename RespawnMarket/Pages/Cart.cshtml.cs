@@ -1,3 +1,16 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Change History
+// Date:        Developer:  Description: 
+// 2023-03-11   kriner      Full commenting of the Cart.cshtml.cs file
+//
+// The Cart.cshtml page model class adds products from the database to the cart and updates the ReturnUrl using the OnPost
+// method and stores the modified cart using the OnGet method by setting the values of the Cart and ReturnUrl. A new handler
+// for the OnPostRemove method is created in order to properly use the remove button in the cart page.
+//
+// The code used throughout the RespawnMarket program is generally referenced directly from Adam Freeman's
+// SportsStore example in the Pro ASP.NET Core 6: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages
+// book: https://learning.oreilly.com/library/view/pro-asp-net-core/9781484279571/
+
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using NuGet.Protocol.Core.Types;

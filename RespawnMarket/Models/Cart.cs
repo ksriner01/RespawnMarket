@@ -1,4 +1,17 @@
-﻿namespace RespawnMarket.Models
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Change History
+// Date:        Developer:  Description: 
+// 2023-03-11   kriner      Commenting of the Cart.cs file
+//
+// The Cart class implements cart features which uses the CartLine method to define the new lines of items in
+// the cart with the product and quantity. There is also the functionality to remove items from the cart line and 
+// then the total value of all the items in the cart are added up.
+//
+// The code used throughout the RespawnMarket program is generally referenced directly from Adam Freeman's
+// SportsStore example in the Pro ASP.NET Core 6: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages
+// book: https://learning.oreilly.com/library/view/pro-asp-net-core/9781484279571/
+
+namespace RespawnMarket.Models
 {
     public class Cart
     {
